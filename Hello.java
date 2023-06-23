@@ -4,4 +4,8 @@ class Hello {
 
         System.out.println("새로운 기능 입니다");
     }
+
+    public void test() {
+        System.out.println("풀리퀘스트가 생긴다!");
+    }
 }
