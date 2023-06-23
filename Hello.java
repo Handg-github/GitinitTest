@@ -6,6 +6,6 @@ class Hello {
     }
 
     public void test() {
-        System.out.println("풀리퀘스트가 생긴다!");
+        System.out.println("VSCode에서 사용!");
     }
 }
